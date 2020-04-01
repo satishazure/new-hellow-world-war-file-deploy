@@ -198,6 +198,5 @@
 			</plugin>
 		</plugins>
 	</build>
-	
 	<name>simple-web-app</name>
 </project>
